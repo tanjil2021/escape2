@@ -65,13 +65,13 @@ header {
     font-size: 48px;
 }
 .container button {
+    font-size: 23px;
+    color: blanchedalmond;
     width: 248px;
     height: 72px;
     border-radius: 15px;
     cursor: pointer;
-    background: transparent;
-    color: blanchedalmond;
-    font-size: 23px;
+    background: transparent; 
     margin-top: 80px;
     margin-left: 247px;
 }
@@ -202,9 +202,10 @@ section {
     font-size: 60px;
 }
 .headline h5 {
-     color: #777777;
-     font-size: 22px;
-     font-weight: 500;
+    font-size: 22px;
+    font-weight: 500;
+    color: #777777;
+    
 }
 .lightfont {
 }
@@ -232,8 +233,8 @@ section {
     padding-top: 46px;
 }
 .comtext p {
-    font-size: 26px;
     font-weight: 400;
+    font-size: 26px;
     color: #777777;
     margin-left: 28px;
 }
@@ -304,8 +305,9 @@ section {
     margin-bottom: 60px
 }
 .team-headline h1 {
-    font-size: 60px;
     font-weight: 800;
+    font-size: 60px;
+    
 }
 .team-headline h6 {
     font-size: 22px;
@@ -374,8 +376,8 @@ footer {
     padding-top: 80px;
 }
 .container-text h1 {
+    font-weight: 800; 
     font-size: 60px;
-    font-weight: 800;
     margin-bottom: 10px;
 }
 .container-text p {
